@@ -10,6 +10,12 @@
       "description": "Life of a dog in Poland",
       "userId": "101106313726090765521",
       "id": 2
+    },
+    {
+      "title": "Bitcoin Travelers",
+      "description": "Stories about Bitcoin from around the world",
+      "userId": "101106313726090765521",
+      "id": 3
     }
   ]
 }
